@@ -7,5 +7,6 @@ public class scriptcamera : MonoBehaviour
     void Update()
     {
         transform.position = Player.transform.position;
+        transform.rotation = Player.transform.rotation;
     }
 }
