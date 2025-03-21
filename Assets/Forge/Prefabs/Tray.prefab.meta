@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b345e5b39da914c459cfb4f18afda3bb
+timeCreated: 1510663885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104941
+  packageName: Hand painted forge
+  packageVersion: 1.0
+  assetPath: Assets/Forge/Prefabs/Tray.prefab
+  uploadId: 212362

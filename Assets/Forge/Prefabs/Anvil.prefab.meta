@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed4c8f654248d0e45ba7661641e5889c
+timeCreated: 1510662868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104941
+  packageName: Hand painted forge
+  packageVersion: 1.0
+  assetPath: Assets/Forge/Prefabs/Anvil.prefab
+  uploadId: 212362
