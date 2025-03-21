@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 778293333347722340}
   - component: {fileID: 5807163311574054450}
   m_Layer: 0
-  m_Name: Trigger Magic Master
+  m_Name: TriggerMagicMaster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 2808509566178047535}
   - component: {fileID: 4175500138315760841}
   m_Layer: 0
-  m_Name: Trigger Mushroom Dance
+  m_Name: TriggerMushroomDance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
