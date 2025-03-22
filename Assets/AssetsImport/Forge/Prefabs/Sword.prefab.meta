@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7496925c4a8f4e54cb62473448e05da2
+timeCreated: 1510663565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104941
+  packageName: Hand painted forge
+  packageVersion: 1.0
+  assetPath: Assets/Forge/Prefabs/Sword.prefab
+  uploadId: 212362
